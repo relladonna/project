@@ -1,0 +1,14 @@
+@font-family {
+    src: url(./Raleway-Regular.ttf) format('truetype');
+    font-family: 'Raleway-Regular';
+}
+
+@font-family {
+    src: url(./Raleway-Medium.ttf) format('truetype');
+    font-family: 'Raleway-Medium';
+}
+
+@font-family {
+    src: url(./Raleway-Bold.ttf) format('truetype');
+    font-family: 'Raleway-Bold';
+}
